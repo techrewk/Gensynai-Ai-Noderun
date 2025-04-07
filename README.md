@@ -108,7 +108,10 @@ docker --version
 
 **Step 6: Obtain a Hugging Face Access Token**
 
-Gensyn utilizes Hugging Face for model management:
+## Get HuggingFace API Key 
+**1- Create account in [HuggingFace](https://huggingface.co/)**
+
+**2- Create an Access Token with `Write` permissions [here](https://huggingface.co/settings/tokens) and save it**
 
 1. Create an account on Hugging Face.
 2. Navigate to your account settings and generate an Access Token with 'Write' permissions.
