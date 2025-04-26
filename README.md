@@ -9,7 +9,7 @@ To successfully set up and run a Gensyn Testnet node on an Ubuntu system, follow
   - **CPU:** Minimum 16GB RAM; more RAM (e.g., 32GB+) is recommended for larger models or datasets.
   - **GPU (Optional):** For enhanced performance, CUDA-supported devices are recommended, such as:
     - NVIDIA RTX 3090
-    - NVIDIA RTX 4090
+    - NVIDIA RTX 4093
     - NVIDIA A100
     - NVIDIA H100
     - Note: The node can also run in CPU-only mode without a GPU.
