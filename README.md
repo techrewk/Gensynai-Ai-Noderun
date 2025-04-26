@@ -170,6 +170,8 @@ To reattach to the screen session and monitor the node:
 ```bash
 screen -r gensyn
 ```
+
+end
 
 
 To detach again, press `Ctrl + A`, then `D`.
